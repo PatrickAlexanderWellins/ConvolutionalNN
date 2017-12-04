@@ -11,4 +11,4 @@
 
 These Python libraries that are in bold are used in the project for statistical techniques, machine learning models, data processing, and visualization.
 
-**sklearn, keras, numpy, glob, random, cv2, matplotlib.pyplot, PIL, extract bottleneck features, **
+**sklearn, keras, numpy, glob, random, cv2, matplotlib.pyplot, PIL, extract bottleneck features**
